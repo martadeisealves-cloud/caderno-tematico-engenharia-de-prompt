@@ -4,7 +4,7 @@
 
 Projeto desenvolvido durante meus estudos na DIO, com foco na aplicação prática de Engenharia de Prompt em modelos de Inteligência Artificial.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 🎯 Objetivos
 
@@ -13,7 +13,7 @@ Projeto desenvolvido durante meus estudos na DIO, com foco na aplicação práti
 * Melhorar respostas geradas por IA
 * Criar material de revisão
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 📚 Fontes de Estudo
 
@@ -22,7 +22,7 @@ Projeto desenvolvido durante meus estudos na DIO, com foco na aplicação práti
 * IBM: https://www.ibm.com/br-pt/think/prompt-engineering
 * Prompting Guide: https://www.promptingguide.ai/pt
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## ⚠️ Cicatrizes (Aprendizado Prático)
 
@@ -36,7 +36,7 @@ Projeto desenvolvido durante meus estudos na DIO, com foco na aplicação práti
 "Explique IA na educação com exemplos"
 ➡️ Resposta mais clara
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### 🔹 Sem Contexto
 
@@ -47,14 +47,14 @@ Projeto desenvolvido durante meus estudos na DIO, com foco na aplicação práti
 "Explique Engenharia de Prompt com exemplos práticos"
 ➡️ Melhor compreensão
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### 🔹 Com Estrutura
 
 "Explique em tópicos, com exemplos e linguagem simples"
 ➡️ Resposta organizada e didática
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 💡 Aprendizados
 
@@ -63,7 +63,7 @@ Projeto desenvolvido durante meus estudos na DIO, com foco na aplicação práti
 * Exemplos aumentam a clareza
 * Iteração faz parte do processo
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 🛠️ Miniguia de Engenharia de Prompt
 
@@ -71,7 +71,7 @@ Projeto desenvolvido durante meus estudos na DIO, com foco na aplicação práti
 
 Criar instruções claras e específicas para melhorar respostas de modelos de IA.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### ⚙️ Técnicas
 
@@ -79,7 +79,7 @@ Criar instruções claras e específicas para melhorar respostas de modelos de I
 * Few-shot
 * Chain-of-thought
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### ✅ Boas práticas
 
@@ -88,7 +88,7 @@ Criar instruções claras e específicas para melhorar respostas de modelos de I
 * Pedir exemplos
 * Estruturar a resposta
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 💬 Prompts úteis
 
@@ -97,14 +97,14 @@ Criar instruções claras e específicas para melhorar respostas de modelos de I
 * "Resuma em tópicos"
 * "Compare [A] e [B]"
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 🚀 Conclusão
 
 A qualidade da resposta depende diretamente do prompt.
 Pequenas melhorias geram grandes resultados.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## ⭐ Diferencial
 
